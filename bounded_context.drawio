@@ -1,0 +1,31 @@
+<mxfile host="Electron" modified="2023-08-09T14:56:23.602Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.5 Chrome/114.0.5735.243 Electron/25.3.1 Safari/537.36" etag="Bneop6_6vPpbESHB9YvH" version="21.6.5" type="device">
+  <diagram name="Page-1" id="_L4tUdGeP0fdcVleprfE">
+    <mxGraphModel dx="1434" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="z2tLhpKeEELXoo4CbJ6l-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="150" width="340" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="z2tLhpKeEELXoo4CbJ6l-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="150" width="350" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="z2tLhpKeEELXoo4CbJ6l-1" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;VideoApplication&lt;br&gt;Viewer&lt;br&gt;&lt;br&gt;Supported Domain&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="85" y="220" width="250" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="z2tLhpKeEELXoo4CbJ6l-2" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;CloudInfrastructure&lt;br&gt;Customer&lt;br&gt;&lt;br&gt;Core Domain&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="480" y="220" width="250" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="z2tLhpKeEELXoo4CbJ6l-3" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;Account/subscription&lt;br&gt;Customer&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;Generic Domain&lt;/span&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="480" y="530" width="250" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="z2tLhpKeEELXoo4CbJ6l-4" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;VideoApplication&lt;br&gt;Administration&lt;br&gt;Customer&lt;br&gt;&lt;br&gt;Supported Domain&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="85" y="530" width="250" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="z2tLhpKeEELXoo4CbJ6l-9" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;Bounded Context&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="40" width="710" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
